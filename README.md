@@ -40,3 +40,9 @@ This project combines form-based lead capture with real-time tracking and automa
 - Email follow-up sequences triggered via Zapier
 - Slack alerts for high-priority leads
 - Revenue forecasting and pipeline value metrics
+
+## Zapier Flow
+![image](https://github.com/user-attachments/assets/df688193-7ebc-4714-b2c5-43f6d7a3bf9f)
+
+## Sample Lead Data
+![image](https://github.com/user-attachments/assets/b928a5b3-4f0d-4adb-9670-b9ae68720a46)
